@@ -1,2 +1,2 @@
-# covid-19-data-analysis
-A repository of data notebooks surrounding covid-19 statistics
+# Covid-19 Data Analysis
+A repository of data notebooks surrounding Covid-19 statistics
